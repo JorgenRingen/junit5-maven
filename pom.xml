@@ -20,8 +20,8 @@
     <dependency>
       <groupId>org.junit.jupiter</groupId>
       <artifactId>junit-jupiter-api</artifactId>
-      <version>5.0.0</version>
-      <scope>${junit.jupiter.version}</scope>
+      <version>${junit.jupiter.version}</version>
+      <scope>test</scope>
     </dependency>
     <dependency>
       <groupId>org.junit.jupiter</groupId>
